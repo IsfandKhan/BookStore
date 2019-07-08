@@ -1,0 +1,65 @@
+li, ul{
+    list-style:none;
+}
+
+.top-bar{
+    margin-bottom: 20px;
+}
+
+.book{
+    text-align:center;
+}
+
+.book h4{
+    margin-top: 15px;
+}
+
+.price{
+    margin: 5px;
+    font-size: 18px;
+}
+
+.price span{
+    color:green;
+    background: #f4f4f4;
+    padding:10px;
+    border:1px #ccc solid;
+    border-radius:50%;
+}
+
+footer{
+    margin-top:40px;
+    padding:10px;
+    text-align:center;
+}
+
+.success
+{
+    text-align: center;
+    padding: 10px;
+    margin:0;
+    width: 200px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    list-style: none;
+}
+
+.error
+{
+	padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+ 	color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    list-style: none;
+}
+
+h2 span{
+    font-size: 18px;
+}
